@@ -4,7 +4,7 @@ I conducted this benchmarking for my personal reference when implementing Retrie
 
 I mainly choose smaller size models for using locally.
 
-NOTE: A Comprehensive Benchmark already exist in [📊 HuggingFace](https://huggingface.co/spaces/mteb/leaderboard).
+📝NOTE: A Comprehensive Benchmark already exist in [HuggingFace](https://huggingface.co/spaces/mteb/leaderboard).
 
 ## Benchmark Results
 
