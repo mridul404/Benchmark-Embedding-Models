@@ -6,7 +6,7 @@ I mainly choose smaller size models for using locally.
 
 ## Benchmark Results
 
-| Model | Size (MB) | Dimension | Embedding Time (s/sentence) | Avg Similarity |
+| Model | Size (MB) | Dimension | Embedding Time (s/paragraph) | Avg Similarity |
 |-------|-----------|-----------|-----------------------------| ---------------|
 | paraphrase-albert-small-v2 | 44.57 | 768 | 0.030840 | 0.459125 |
 | paraphrase-MiniLM-L3-v2 | 66.34 | 384 | 0.007843 | 0.442153 |
